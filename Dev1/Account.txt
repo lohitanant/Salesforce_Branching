@@ -8,3 +8,5 @@ Commit the changes:
 git add .
 git commit -m "DEV1: Added Account changes"
 git push origin dev1
+
+Now test the ruleset.
