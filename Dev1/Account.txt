@@ -1,12 +1,3 @@
 Developer 1 changes
 Added Account validation
 Added Account custom field
-
-DEV1 -> UAT
-Switch on DEV1 : git checkout dev1
-Commit the changes:
-git add .
-git commit -m "DEV1: Added Account changes"
-git push origin dev1
-
-Now test the ruleset.
